@@ -12,5 +12,5 @@ on it.
 6) Follow the steps IF it says "Allow
 Chrome to install unkown apps?" And
 swipe it.
-7) Click on "Yes" And when it's
+7) Click on "Yes" or "Install" And when it's
 successful, Go to home screen.
